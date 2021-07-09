@@ -2,7 +2,7 @@
 
 I'm a portuguese student. I like coding things in a easier way for a better experience.
 
-I code mainly in javascript and c#, and I'm currently learning typescript.
+I code mainly in javascript typescript, but have also made some projects with c#
 
 
 
