@@ -2,11 +2,11 @@
 
 I'm a portuguese student. I like coding things in a easier way for a better experience.
 
-I code mainly in javascript typescript, but have also made some projects with c#
+I code mainly in javascript & typescript, but have also made some projects in c#.
 
 
 
-My main project is [Coloras](https://github.com/mister-coded/coloras), an open source user-friendly color manipulation cli.
+Check out my [repos](https://github.com/mister-coded?tab=repositories).
 
 Reach me on Discord: [mister#3623](https://discord.com/users/640260241115709462).
 
