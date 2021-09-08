@@ -8,6 +8,9 @@ I code mainly in javascript & typescript, but have also made some projects in c#
 
 Check out my [repos](https://github.com/mister-coded?tab=repositories).
 
+Check out my [gists](https://gist.github.com/mister-coded) for some useful stuff.
+
+
 Reach me on Discord: [mister#3623](https://discord.com/users/640260241115709462).
 
 ### Github Stats:
