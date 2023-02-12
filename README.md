@@ -1,14 +1,10 @@
-### Hello World!
+### yo
 
-I'm a portuguese student. I like coding things in a easier way for a better experience.
+i'm yo dad
 
-I code mainly in javascript & typescript, and have some experience with c#.
+i code in js, ts and c#
 
-
-
-Check out my [repos](https://github.com/mister-coded?tab=repositories) and [gists](https://gist.github.com/mister-coded) for some useful stuff.
-
-Reach me on Discord: [mister#3623](https://discord.com/users/640260241115709462).
+discord: [mister#3623](https://discord.com/users/640260241115709462).
 
 ### Github Stats:
 
